@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/SouravDn-p/recap-text-master/precache-manifest.640633861fced24d8d1bac84707c2107.js"
+  "/recap-text-master/precache-manifest.6f28605d621ffef803fe654dc391a497.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/SouravDn-p/recap-text-master/index.html", {
+workbox.routing.registerNavigationRoute("/recap-text-master/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

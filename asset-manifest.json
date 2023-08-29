@@ -1,15 +1,15 @@
 {
-  "main.css": "/SouravDn-p/recap-text-master/static/css/main.9f9b7cfe.chunk.css",
-  "main.js": "/SouravDn-p/recap-text-master/static/js/main.a139e8e6.chunk.js",
-  "main.js.map": "/SouravDn-p/recap-text-master/static/js/main.a139e8e6.chunk.js.map",
-  "static/js/1.3c11774c.chunk.js": "/SouravDn-p/recap-text-master/static/js/1.3c11774c.chunk.js",
-  "static/js/1.3c11774c.chunk.js.map": "/SouravDn-p/recap-text-master/static/js/1.3c11774c.chunk.js.map",
-  "static/js/2.2b8e7308.chunk.js": "/SouravDn-p/recap-text-master/static/js/2.2b8e7308.chunk.js",
-  "static/js/2.2b8e7308.chunk.js.map": "/SouravDn-p/recap-text-master/static/js/2.2b8e7308.chunk.js.map",
-  "runtime~main.js": "/SouravDn-p/recap-text-master/static/js/runtime~main.439a5188.js",
-  "runtime~main.js.map": "/SouravDn-p/recap-text-master/static/js/runtime~main.439a5188.js.map",
-  "static/css/main.9f9b7cfe.chunk.css.map": "/SouravDn-p/recap-text-master/static/css/main.9f9b7cfe.chunk.css.map",
-  "index.html": "/SouravDn-p/recap-text-master/index.html",
-  "precache-manifest.640633861fced24d8d1bac84707c2107.js": "/SouravDn-p/recap-text-master/precache-manifest.640633861fced24d8d1bac84707c2107.js",
-  "service-worker.js": "/SouravDn-p/recap-text-master/service-worker.js"
+  "main.css": "/recap-text-master/static/css/main.9f9b7cfe.chunk.css",
+  "main.js": "/recap-text-master/static/js/main.67dae3a3.chunk.js",
+  "main.js.map": "/recap-text-master/static/js/main.67dae3a3.chunk.js.map",
+  "static/js/1.3c11774c.chunk.js": "/recap-text-master/static/js/1.3c11774c.chunk.js",
+  "static/js/1.3c11774c.chunk.js.map": "/recap-text-master/static/js/1.3c11774c.chunk.js.map",
+  "static/js/2.2b8e7308.chunk.js": "/recap-text-master/static/js/2.2b8e7308.chunk.js",
+  "static/js/2.2b8e7308.chunk.js.map": "/recap-text-master/static/js/2.2b8e7308.chunk.js.map",
+  "runtime~main.js": "/recap-text-master/static/js/runtime~main.ee318273.js",
+  "runtime~main.js.map": "/recap-text-master/static/js/runtime~main.ee318273.js.map",
+  "static/css/main.9f9b7cfe.chunk.css.map": "/recap-text-master/static/css/main.9f9b7cfe.chunk.css.map",
+  "index.html": "/recap-text-master/index.html",
+  "precache-manifest.6f28605d621ffef803fe654dc391a497.js": "/recap-text-master/precache-manifest.6f28605d621ffef803fe654dc391a497.js",
+  "service-worker.js": "/recap-text-master/service-worker.js"
 }
