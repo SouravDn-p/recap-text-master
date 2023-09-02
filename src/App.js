@@ -1,17 +1,17 @@
 import React from 'react';
 import  { useState } from 'react';
 import './App.css';
-// import About from './components/About';
+import About from './components/About';
 import Navbar from './components/Navbar';
 import TextForm from './components/TextForm';
 import Alert from './components/Alert';
-// import Home from './components/Home';
+import Home from './components/Home';
 
-// import {
-//   BrowserRouter as Main,
-//   Route,
-//   Routes
-// } from "react-router-dom";
+import {
+  BrowserRouter as Main,
+  Route,
+  Routes
+} from "react-router-dom";
 
 
 
@@ -47,21 +47,21 @@ function App() {
 
   return (
     <>
-      {/* <Main> */}
+      <Main>
         <Navbar title="SdBlog" handleBg={handleBg} mode={mode} about="AboutUs"/>
         <Alert alert={alert} />
               <div className="container">
-        {/* <Routes>
+        <Routes>
                 <Route exact path='/' element={<Home/>} /> 
-                <Route exact path='/About' element={<About/>} /> 
-                <Route exact path='/TextForm' element={<TextForm/>} />  */}
+                <Route exact path='/About' element={<About mode={mode} />} /> 
+                <Route exact path='/TextForm' element={<TextForm heading="Enter any text to search" showAlert={showAlert} mode={mode} />} /> 
                    
                   
-                  <TextForm heading="Enter any text to search" showAlert={showAlert} />
+                  {/* <TextForm heading="Enter any text to search" showAlert={showAlert} /> */}
                   {/* <About/> */}
-        {/* </Routes> */}
+        </Routes>
               </div>
-      {/* </Main> */}
+      </Main>
     </>
   );
 }
